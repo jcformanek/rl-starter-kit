@@ -1,0 +1,2 @@
+# The Agent-Environment Interface
+In RL we have an agent interacting with an environment. In this notebook we explore how we get an agent to interact with the environment in practice. We use OpenAi's Gym.
