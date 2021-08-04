@@ -1,1 +1,1 @@
-<a href="https://colab.research.google.com/github/jformanek/rl-starter-kit/blob/main/05-Q-Learning/dqn.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+<a href="https://colab.research.google.com/github/jcformanek/rl-starter-kit/blob/main/05-Q-Learning/dqn.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
